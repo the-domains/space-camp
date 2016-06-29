@@ -1,0 +1,14 @@
+layout_spectrum: 0.3680938428733498
+typography_spectrum: 0.8233044818043709
+color:
+  brandStrength: 0.25837538321502507
+  lightness: 0.49006219557486475
+  saturation: 0.6954669831320643
+  rhythmicContrast: 0.37034905422478914
+  brandColors:
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+name: Space Camp
